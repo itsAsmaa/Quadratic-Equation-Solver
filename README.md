@@ -50,7 +50,5 @@ Key Methods:
    - Select option **3** to combine two quadratic equations by entering the coefficients for both equations.
    - Select option **4** to exit the program.
 
-## Example
 
-### Sample Interaction
 
